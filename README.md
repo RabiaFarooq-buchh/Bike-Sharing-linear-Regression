@@ -1,1 +1,2 @@
 # Bike-Sharing-linear-Regression
+You need to create a model that predicts the demand for shared bikes based on the provided independent variables. This information will help the management team grasp how demand changes in relation to various factors. With this insight, they can adjust the business strategy to align with demand levels and meet customer expectations. Additionally, the model will serve as a valuable tool for the management to comprehend the demand patterns in a new market.
